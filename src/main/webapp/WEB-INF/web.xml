@@ -5,9 +5,9 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
          version="2.4">
 
-	<display-name>WebSocketsApp</display-name>
+	<display-name>An awesome REST API written with Jersey and Guice</display-name>
 	<description>
-		WebSocket WebApp Test
+		See the description on GitHub: https://github.com/renatoathaydes/jersey-guice-app
 	</description>
 
 	<listener>
